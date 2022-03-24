@@ -1,0 +1,6 @@
+module Pods_Notedv2 {
+  umbrella header "Pods-Notedv2-umbrella.h"
+
+  export *
+  module * { export * }
+}
